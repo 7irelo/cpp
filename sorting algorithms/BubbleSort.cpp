@@ -10,20 +10,18 @@ typedef struct
 int main(void)
 {
     int input;
+    while (true)
     {
-        while (true)
+        std::cout << "\nHow many students do you want to sort by grades: ";
+        if (!(std::cin >> input))
         {
-            std::cout << "\nHow many grades do you want to sort: ";
-            if (!(std::cin >> input))
-            {
-                std::cin.clear();
-                std::cin.ignore();
-                std::cout << "Incorrect entry. Try again\n";
-            }
-            else
-            {
-                break;
-            }
+            std::cin.clear();
+            std::cin.ignore();
+            std::cout << "Incorrect entry. Try again\n";
+        }
+        else
+        {
+            break;
         }
     }
 
@@ -69,7 +67,7 @@ int main(void)
         std::cout << i + 1 << ". " << array[i].name << ", Grade: " << array[i].grade << '\n';
     }
     std::cout << "\n**********************\n";
-    std::cout << "Press any key to quit....";
+    std::cout << "Press 'Enter' to quit...";
     delete[] array;
     std::cin.ignore();
     std::cin.get();
