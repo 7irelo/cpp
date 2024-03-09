@@ -9,11 +9,11 @@ typedef struct
 
 int main(void)
 {
-    int input;
+    int amount;
     while (true)
     {
         std::cout << "\nHow many students do you want to sort by grades: ";
-        if (!(std::cin >> input))
+        if (!(std::cin >> amount))
         {
             std::cin.clear();
             std::cin.ignore();
@@ -25,7 +25,6 @@ int main(void)
         }
     }
 
-    int amount = input;
     student* array = new student[amount];
     for (int i = 0; i < amount; i++)
     {
