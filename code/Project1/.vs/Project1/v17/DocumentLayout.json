@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\",
+  "WorkspaceRootPath": "C:\\pragramming\\cpp\\code\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\pragramming\\cpp\\code\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\pragramming\\cpp\\code\\Project1\\multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|solutionrelative:multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\pragramming\\cpp\\code\\Project1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|C:\\pragramming\\cpp\\code\\Project1\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D19E4DD-30FD-4D0E-9029-B874E2FC6ECC}|Project1.vcxproj|solutionrelative:log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\main.cpp",
+              "DocumentMoniker": "C:\\pragramming\\cpp\\code\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\main.cpp",
+              "ToolTip": "C:\\pragramming\\cpp\\code\\Project1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-07T10:46:39.247Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "multiply.cpp",
-              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\multiply.cpp",
+              "DocumentMoniker": "C:\\pragramming\\cpp\\code\\Project1\\multiply.cpp",
               "RelativeDocumentMoniker": "multiply.cpp",
-              "ToolTip": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\multiply.cpp",
+              "ToolTip": "C:\\pragramming\\cpp\\code\\Project1\\multiply.cpp",
               "RelativeToolTip": "multiply.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "log.cpp",
-              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\log.cpp",
+              "DocumentMoniker": "C:\\pragramming\\cpp\\code\\Project1\\log.cpp",
               "RelativeDocumentMoniker": "log.cpp",
-              "ToolTip": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\log.cpp",
+              "ToolTip": "C:\\pragramming\\cpp\\code\\Project1\\log.cpp",
               "RelativeToolTip": "log.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "header.h",
-              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\header.h",
+              "DocumentMoniker": "C:\\pragramming\\cpp\\code\\Project1\\header.h",
               "RelativeDocumentMoniker": "header.h",
-              "ToolTip": "C:\\Users\\Eric\\Documents\\Coding\\c\u002B\u002B\\Project1\\header.h",
+              "ToolTip": "C:\\pragramming\\cpp\\code\\Project1\\header.h",
               "RelativeToolTip": "header.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

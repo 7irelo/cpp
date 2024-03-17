@@ -1,3 +1,4 @@
 ﻿  main.cpp
-C:\Users\Eric\Documents\Coding\c++\Project1\main.cpp(20,32): warning C4390: ';': empty controlled statement found; is this the intent?
-  Project1.vcxproj -> C:\Users\Eric\Documents\Coding\c++\Project1\x64\Debug\Project1.exe
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+C:\pragramming\cpp\code\Project1\Dependencies\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\pragramming\cpp\code\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
