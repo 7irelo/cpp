@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|solutionrelative:Sign_in\\sign_in_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|solutionrelative:Sign_in\\sign_in_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75921D5F-5C76-4D75-ABED-CEAF94ED4FC0}|Sign_in\\Sign_in.vcxproj|solutionrelative:Sign_in\\sign_in_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sign_in_form.h",
+              "DocumentMoniker": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h",
+              "RelativeDocumentMoniker": "Sign_in\\sign_in_form.h",
+              "ToolTip": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h",
+              "RelativeToolTip": "Sign_in\\sign_in_form.h",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAQwI8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T21:43:01.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sign_in_form.cpp",
+              "DocumentMoniker": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.cpp",
+              "RelativeDocumentMoniker": "Sign_in\\sign_in_form.cpp",
+              "ToolTip": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.cpp",
+              "RelativeToolTip": "Sign_in\\sign_in_form.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T21:31:51.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign_in_form.h [Design]",
+              "DocumentMoniker": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h",
+              "RelativeDocumentMoniker": "Sign_in\\sign_in_form.h",
+              "ToolTip": "C:\\programming\\cpp\\projects\\WinForms GUI\\Sign_in\\Sign_in\\sign_in_form.h [Design]",
+              "RelativeToolTip": "Sign_in\\sign_in_form.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T21:30:15.629Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

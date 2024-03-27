@@ -1,3 +1,0 @@
-C:\Users\Eric\Documents\Coding\c++\Project\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
-C:\Users\Eric\Documents\Coding\c++\Project\Project\x64\Debug\Project.MyForm.resources
-C:\Users\Eric\Documents\Coding\c++\Project\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
